@@ -21,6 +21,7 @@ Use VsCode/c++ compiler to run this code
 - [SHUAIB JAWID](https://www.github.com/ShubJas)
 - [SANKET BABAR](https://www.github.com/)
 - [RONAK JAIN](https://www.github.com/)
+- [RAHUL BHUTNA](https://github.com/Rahulbhutna72400)
 
 
 
